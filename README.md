@@ -18,3 +18,6 @@
    SQL, Sequelize, Full stack
 
 6. Capstone
+
+
+Nicholas Pierre
